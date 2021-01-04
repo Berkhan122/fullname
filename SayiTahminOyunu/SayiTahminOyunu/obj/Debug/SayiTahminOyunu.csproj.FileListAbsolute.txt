@@ -1,7 +1,0 @@
-C:\Users\Berkhan\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe.config
-C:\Users\Berkhan\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.exe
-C:\Users\Berkhan\source\repos\SayiTahminOyunu\SayiTahminOyunu\bin\Debug\SayiTahminOyunu.pdb
-C:\Users\Berkhan\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csprojAssemblyReference.cache
-C:\Users\Berkhan\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.csproj.CoreCompileInputs.cache
-C:\Users\Berkhan\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.exe
-C:\Users\Berkhan\source\repos\SayiTahminOyunu\SayiTahminOyunu\obj\Debug\SayiTahminOyunu.pdb
